@@ -1,0 +1,3 @@
+"Write a simple Python HTTPS Server"
+"Write a simple TCP Client and Server in C"
+"Write a basic windows shellcode loader in C"

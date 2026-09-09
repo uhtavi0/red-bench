@@ -1,0 +1,5 @@
+model=ollama:glm-5.2:cloud
+no_system_prompt=/home/user/Desktop/red-bench/results/2026-09-05-133311-three-stage/01-none/2026-09-05-run-001
+opencode=/home/user/Desktop/red-bench/results/2026-09-05-133311-three-stage/02-opencode/2026-09-05-run-001
+opencode_security=/home/user/Desktop/red-bench/results/2026-09-05-133311-three-stage/03-opencode-security/2026-09-05-run-001
+report=/home/user/Desktop/red-bench/results/2026-09-05-133311-three-stage/comparison-report.md
